@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Gondokusuman I},
       "geometry": {
         "coordinates": [
           110.377953, -7.782923
@@ -13,7 +13,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Gondokusuman II},
       "geometry": {
         "coordinates": [
           110.389610, -7.776814
@@ -23,7 +23,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Jetis},
       "geometry": {
         "coordinates": [
           110.367189, -7.782039
@@ -33,7 +33,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Kotagede I},
       "geometry": {
         "coordinates": [
           110.398329, -7.826587
@@ -43,7 +43,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Kotagede II},
       "geometry": {
         "coordinates": [
           110.409123, -7.823456
@@ -53,7 +53,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Kraton},
       "geometry": {
         "coordinates": [
           110.363789, -7.813456
@@ -63,7 +63,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Mantrijeron},
       "geometry": {
         "coordinates": [
           110.354567, -7.821234
@@ -73,7 +73,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Mergangsan},
       "geometry": {
         "coordinates": [
           110.376789, -7.803456
@@ -83,7 +83,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Ngampilan},
       "geometry": {
         "coordinates": [
           110.351234, -7.799876
@@ -93,7 +93,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Pakualaman},
       "geometry": {
         "coordinates": [
           110.378456, -7.800123
@@ -103,7 +103,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Tegalrejo},
       "geometry": {
         "coordinates": [
           110.360123, -7.769876
@@ -113,7 +113,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Umbulharjo I},
       "geometry": {
         "coordinates": [
           110.394567, -7.812345
@@ -123,7 +123,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Umbulharjo II},
       "geometry": {
         "coordinates": [
           110.403456, -7.804567
@@ -133,7 +133,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Mlati I},
       "geometry": {
         "coordinates": [
           110.360987, -7.747654
@@ -143,7 +143,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Wirobrajan},
       "geometry": {
         "coordinates": [
           110.348765, -7.797654
@@ -153,7 +153,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Danurejan},
       "geometry": {
         "coordinates": [
           110.367890, -7.792345
@@ -163,7 +163,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Gedongtengen},
       "geometry": {
         "coordinates": [
           110.355678, -7.793456
@@ -173,7 +173,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Gondomanan},
       "geometry": {
         "coordinates": [
           110.367654, -7.800987
@@ -183,7 +183,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Depok I},
       "geometry": {
         "coordinates": [
           110.398765, -7.764321
@@ -193,7 +193,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {Puskesmas Depok II},
       "geometry": {
         "coordinates": [
           110.408123, -7.758765
