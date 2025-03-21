@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {Puskesmas Gondokusuman I},
+      "properties": {
+        "Lokasi"="Puskesmas Gondokusuman I"
+      },
       "geometry": {
         "coordinates": [
           110.377953, -7.782923
@@ -13,7 +15,9 @@
     },
     {
       "type": "Feature",
-      "properties": {Puskesmas Gondokusuman II},
+      "properties": {
+      "Lokasi"= "Puskesmas Gondokusuman II"
+    },
       "geometry": {
         "coordinates": [
           110.389610, -7.776814
@@ -23,7 +27,8 @@
     },
     {
       "type": "Feature",
-      "properties": {Puskesmas Jetis},
+      "properties": 
+      "Lokasi"="Puskesmas Jetis"
       "geometry": {
         "coordinates": [
           110.367189, -7.782039
@@ -33,7 +38,8 @@
     },
     {
       "type": "Feature",
-      "properties": {Puskesmas Kotagede I},
+      "properties": 
+      "Lokasi"="Puskesmas Kotagede I"
       "geometry": {
         "coordinates": [
           110.398329, -7.826587
@@ -43,7 +49,8 @@
     },
     {
       "type": "Feature",
-      "properties": {Puskesmas Kotagede II},
+      "properties": 
+      "Lokasi"="Puskesmas Kotagede II"
       "geometry": {
         "coordinates": [
           110.409123, -7.823456
@@ -53,7 +60,8 @@
     },
     {
       "type": "Feature",
-      "properties": {Puskesmas Kraton},
+      "properties": 
+      "Lokasi"="Puskesmas Kraton"
       "geometry": {
         "coordinates": [
           110.363789, -7.813456
@@ -63,7 +71,8 @@
     },
     {
       "type": "Feature",
-      "properties": {Puskesmas Mantrijeron},
+      "properties": 
+      "Lokasi"="Puskesmas Mantrijeron"
       "geometry": {
         "coordinates": [
           110.354567, -7.821234
@@ -73,7 +82,8 @@
     },
     {
       "type": "Feature",
-      "properties": {Puskesmas Mergangsan},
+      "properties": 
+      "Lokasi"="Puskesmas Mergangsan"
       "geometry": {
         "coordinates": [
           110.376789, -7.803456
@@ -83,7 +93,8 @@
     },
     {
       "type": "Feature",
-      "properties": {Puskesmas Ngampilan},
+      "properties": 
+      "Lokasi"="Puskesmas Ngampilan"
       "geometry": {
         "coordinates": [
           110.351234, -7.799876
@@ -93,7 +104,8 @@
     },
     {
       "type": "Feature",
-      "properties": {Puskesmas Pakualaman},
+      "properties": 
+      "Lokasi"="Puskesmas Pakualaman"
       "geometry": {
         "coordinates": [
           110.378456, -7.800123
@@ -103,7 +115,8 @@
     },
     {
       "type": "Feature",
-      "properties": {Puskesmas Tegalrejo},
+      "properties": 
+      "Lokasi"="Puskesmas Tegalrejo"
       "geometry": {
         "coordinates": [
           110.360123, -7.769876
@@ -113,7 +126,8 @@
     },
     {
       "type": "Feature",
-      "properties": {Puskesmas Umbulharjo I},
+      "properties": 
+      "Lokasi"="Puskesmas Umbulharjo I"
       "geometry": {
         "coordinates": [
           110.394567, -7.812345
@@ -123,7 +137,8 @@
     },
     {
       "type": "Feature",
-      "properties": {Puskesmas Umbulharjo II},
+      "properties": 
+      "Lokasi"="Puskesmas Umbulharjo II"
       "geometry": {
         "coordinates": [
           110.403456, -7.804567
