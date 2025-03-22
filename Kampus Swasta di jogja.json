@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Kampus": "Akprind"
+        "Kampus": "Akprind",
+        "Keterangan": "Akprind University adalah lembaga pendidikan Nasional yang berazaskan Pancasila yang selalu menjiwai kecerahan, serta pengembangan ilmu pengetahuan, teknologi dan budaya yang tiada hentinya"
       },
       "geometry": {
         "coordinates": [
@@ -38,7 +39,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Kampus": "Politeknik LPP"
+        "Kampus": "Politeknik LPP",
+        "Keterangan": "sebuah politeknik yang berdiri dibawah Yayasan Pendidikan Perkebunan Yogyakarta yang didirikan oleh Lembaga Pendidikan Perkebunan Yogyakarta. Politeknik LPP didirikan dan ditetapkan dengan SK Mendikbud No. 66/D/O/1997 dan SK Dirjen Dikti Depdikbud No. 319/Dikti/Kep/1998."
       },
       "geometry": {
         "coordinates": [
@@ -96,7 +98,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Kampus": "STIE YKPN"
+        "Kampus": "AA YKPN",
+        "Keterangan": "Politeknik LPP Yogyakarta adalah sebuah politeknik yang berdiri dibawah Yayasan Pendidikan Perkebunan Yogyakarta yang didirikan oleh Lembaga Pendidikan Perkebunan Yogyakarta. Politeknik LPP didirikan dan ditetapkan dengan SK Mendikbud No. 66/D/O/1997 dan SK Dirjen Dikti Depdikbud No. 319/Dikti/Kep/1998"
       },
       "geometry": {
         "coordinates": [
@@ -154,7 +157,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Kampus": "Sarjanawiyata Tamansiswa"
+        "Kampus": "Sarjanawiyata Tamansiswa",
+        "Keterangan": "Universitas Sarjanawiyata Tamansiswa (UST) adalah perguruan tinggi swasta di Yogyakarta yang didirikan berdasarkan ajaran Ki Hadjar Dewantara, pendiri Tamansiswa. UST berkomitmen untuk mengembangkan pendidikan yang berlandaskan nilai-nilai kebudayaan dan kebangsaan."
       },
       "geometry": {
         "coordinates": [
@@ -204,7 +208,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Kampus": "UKDW"
+        "Kampus": "Universitas Kristen Duta Wacana",
+        "Keterangan": "Universitas Kristen Duta Wacana (UKDW) adalah sebuah perguruan tinggi swasta di Yogyakarta, Indonesia, yang didirikan pada tahun 1962. Awalnya, UKDW berfokus pada pendidikan teologi sebelum berkembang menjadi universitas dengan berbagai program studi di bidang sains, teknologi, bisnis, desain, dan humaniora."
       },
       "geometry": {
         "coordinates": [
@@ -246,7 +251,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Kampus": "Universitas Janabadra"
+        "Kampus": "Universitas Janabadra",
+        "Keterangan": "Universitas Janabadra adalah salah satu perguruan tinggi swasta di Yogyakarta, Indonesia. Didirikan pada 7 Oktober 1958, universitas ini memiliki berbagai program studi di bidang hukum, teknik, ekonomi, dan pertanian"
       },
       "geometry": {
         "coordinates": [
@@ -280,7 +286,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Kampus": "Sanata Dharma"
+        "Kampus": "Sanata Dharma",
+        "Keterangan": "Universitas Sanata Dharma adalah universitas Katolik yang berlokasi di Yogyakarta. Dikenal juga dengan sebutan USD dan Sadhar. Sanata Dharma dibaca Sanyata Dharma, yang berarti \"kebaktian yang sebenarnya\" atau \"pelayanan yang nyata\"."
       },
       "geometry": {
         "coordinates": [
@@ -318,7 +325,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Kampus": "Nahdlatul Ulama Yogyakarta"
+        "Kampus": "Nahdlatul Ulama Yogyakarta",
+        "Keterangan": "Universitas Nahdlatul Ulama Yogyakarta (UNU Yogyakarta) adalah salah satu perguruan tinggi yang berada di bawah naungan Nahdlatul Ulama (NU). Terletak di Yogyakarta, universitas ini berkomitmen untuk mengembangkan pendidikan berbasis Islam Ahlussunnah Wal Jama'ah dengan menggabungkan nilai-nilai keislaman, kebangsaan, dan inovasi teknologi."
       },
       "geometry": {
         "coordinates": [
@@ -360,7 +368,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Kampus": "STIPER"
+        "Kampus": "STIPER",
+        "Keterangan": "Institut Pertanian Stiper Jogjakarta adalah perguruan tinggi di Indonesia yang berorientasi pada pengembangan perkebunan. Instiper didirikan pada tanggal 10 Desember 1958 oleh Yayasan Pendidikan Kader Perkebunan. Pada awalnya Instiper bernama Sekolah Tinggi Perkebunan."
       },
       "geometry": {
         "coordinates": [
@@ -402,7 +411,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Kampus": "STE Nusa"
+        "Kampus": "Universitas Nusa Megarkencana",
+        "Keterangan": "Universitas Nusa Megarkencana, sebelumnya dikenal sebagai Sekolah Tinggi Ilmu Ekonomi (STIE) Nusa Megarkencana, didirikan pada 8 Juni 1998 di bawah naungan Yayasan Pendidikan Nusa Megarkencana. Pada 23 Juli 2024, institusi ini resmi bertransformasi menjadi universitas, sebagaimana tertuang dalam Surat Keputusan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi Republik Indonesia Nomor 502/E/O/2024"
       },
       "geometry": {
         "coordinates": [
