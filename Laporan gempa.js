@@ -1,7 +1,7 @@
 // This earthquake data is sourced from New Zealand’s Geonet
 // site over a date range that covers a period of reasonable
 // activity in July/August 2013.
-var quakePoints = [
+var gempa_sumatera = [
     [-0.55, 119.72334, 3.93],
     [-0.81, 122.25835, 2.97],
     [-0.17, 119.66547, 3.53],
