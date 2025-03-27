@@ -7,7 +7,7 @@
         "lokasi": "Puskesmas Gondokusuman I"
       },
       "geometry": {
-        "coordinates": [110.377953, -7.782923],
+        "coordinates": [110.380722482888,-7.79365147593397],
         "type": "Point"
       }
     },
@@ -17,7 +17,7 @@
         "lokasi": "Puskesmas Gondokusuman II"
       },
       "geometry": {
-        "coordinates": [110.38961, -7.776814],
+        "coordinates": [110.371063395369,-7.77843592970547],
         "type": "Point"
       }
     },
@@ -27,7 +27,7 @@
         "lokasi": "Puskesmas Jetis"
       },
       "geometry": {
-        "coordinates": [110.367189, -7.782039],
+        "coordinates": [110.362542295369,-7.78310506225453],
         "type": "Point"
       }
     },
@@ -37,7 +37,7 @@
         "lokasi": "Puskesmas Kotagede I"
       },
       "geometry": {
-        "coordinates": [110.398329, -7.826587],
+        "coordinates": [110.400700043771,-7.82211199803879],
         "type": "Point"
       }
     },
@@ -47,7 +47,7 @@
         "lokasi": "Puskesmas Kotagede II"
       },
       "geometry": {
-        "coordinates": [110.409123, -7.823456],
+        "coordinates": [110.394611724205,-7.81356495840817],
         "type": "Point"
       }
     },
@@ -57,7 +57,7 @@
         "lokasi": "Puskesmas Kraton"
       },
       "geometry": {
-        "coordinates": [110.363789, -7.813456],
+        "coordinates": [110.364995839548,-7.80586435091677],
         "type": "Point"
       }
     },
@@ -67,7 +67,7 @@
         "lokasi": "Puskesmas Mantrijeron"
       },
       "geometry": {
-        "coordinates": [110.354567, -7.821234],
+        "coordinates": [110.361491924205,-7.82044714361192],
         "type": "Point"
       }
     },
@@ -77,7 +77,7 @@
         "lokasi": "Puskesmas Mergangsan"
       },
       "geometry": {
-        "coordinates": [110.376789, -7.803456],
+        "coordinates": [110.375288795369,-7.81010475770699],
         "type": "Point"
       }
     },
@@ -87,7 +87,7 @@
         "lokasi": "Puskesmas Ngampilan"
       },
       "geometry": {
-        "coordinates": [110.351234, -7.799876],
+        "coordinates": [110.355933181877,-7.80344533843566],
         "type": "Point"
       }
     },
@@ -97,7 +97,7 @@
         "lokasi": "Puskesmas Pakualaman"
       },
       "geometry": {
-        "coordinates": [110.378456, -7.800123],
+        "coordinates": [110.375734881876,-7.79796614411235],
         "type": "Point"
       }
     },
@@ -107,7 +107,7 @@
         "lokasi": "Puskesmas Tegalrejo"
       },
       "geometry": {
-        "coordinates": [110.360123, -7.769876],
+        "coordinates": [110.361502595369,-7.77229726575502],
         "type": "Point"
       }
     },
@@ -117,7 +117,7 @@
         "lokasi": "Puskesmas Umbulharjo I"
       },
       "geometry": {
-        "coordinates": [110.394567, -7.812345],
+        "coordinates": [110.394659995369,-7.80621975692007],
         "type": "Point"
       }
     },
@@ -127,7 +127,7 @@
         "lokasi": "Puskesmas Umbulharjo II"
       },
       "geometry": {
-        "coordinates": [110.403456, -7.804567],
+        "coordinates": [110.389623880026,-7.80012077395066],
         "type": "Point"
       }
     },
@@ -137,7 +137,7 @@
         "lokasi": "Puskesmas Mlati I"
       },
       "geometry": {
-        "coordinates": [110.360987, -7.747654],
+        "coordinates": [110.363138212563,-7.75432403136948],
         "type": "Point"
       }
     },
@@ -147,7 +147,7 @@
         "lokasi": "Puskesmas Wirobrajan"
       },
       "geometry": {
-        "coordinates": [110.348765, -7.797654],
+        "coordinates": [110.348017408862,-7.81047082336962],
         "type": "Point"
       }
     },
@@ -157,7 +157,7 @@
         "lokasi": "Puskesmas Danurejan"
       },
       "geometry": {
-        "coordinates": [110.36789, -7.792345],
+        "coordinates": [110.375205566533,-7.79432015451232],
         "type": "Point"
       }
     },
@@ -167,7 +167,7 @@
         "lokasi": "Puskesmas Gedongtengen"
       },
       "geometry": {
-        "coordinates": [110.355678, -7.793456],
+        "coordinates": [110.357696195369,-7.79108953468096],
         "type": "Point"
       }
     },
@@ -177,7 +177,7 @@
         "lokasi": "Puskesmas Gondomanan"
       },
       "geometry": {
-        "coordinates": [110.367654, -7.800987],
+        "coordinates": [110.370563110712,-7.80385902697156],
         "type": "Point"
       }
     },
@@ -187,7 +187,7 @@
         "lokasi": "Puskesmas Depok I"
       },
       "geometry": {
-        "coordinates": [110.398765, -7.764321],
+        "coordinates": [110.431385195369,-7.7748693901722],
         "type": "Point"
       }
     },
@@ -197,7 +197,7 @@
         "lokasi": "Puskesmas Depok II"
       },
       "geometry": {
-        "coordinates": [110.408123, -7.758765],
+        "coordinates": [110.408139837697,-7.75652162420796],
         "type": "Point"
       }
     }
